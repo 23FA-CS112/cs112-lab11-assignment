@@ -36,3 +36,4 @@ Thumbs.db
 /*.dSYM/
 main
 tester
+*.png
