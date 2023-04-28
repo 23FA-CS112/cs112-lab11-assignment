@@ -37,3 +37,5 @@ Thumbs.db
 main
 tester
 *.png
+.nfs*
+core
